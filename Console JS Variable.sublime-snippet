@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+console.log("${1:VARIABLE NAME} ================================ ");
+console.log(${1:VARIABLE NAME})
+]]></content>
+	<tabTrigger>console-variable</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
