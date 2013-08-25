@@ -2,16 +2,15 @@
 	<content><![CDATA[
 /*!
 * ${1:NAME OF FILE.JS (e.g. filter.client.js)}
-* The styles in this file represent all basic styles for the
-* ${2:CLIENT} ${3:PROJECT} site.
+* ${2: PURPOSE OF THIS JS FILE}
 *
 * @project   ${3:PROJECT}
 * @date      ${4:YYYY-MM-DD}
-* @author    ${5:YOUR NAME}, SapientNitro <${6:EMAIL}@sapient.com>
-* @licensor  ${2:CLIENT}
-* @site      ${6:SITENAME}
+* @author    ${5:YOUR NAME}, ${6:COMPANY NAME} <${7:EMAIL}>
+* @licensor  ${8:CLIENT}
+* @site      ${9:SITENAME}
 *
-* @dependency ${7:dependency.js}
+* @dependency ${10:dependency.js}
 *
 */
 

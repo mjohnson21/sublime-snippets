@@ -7,11 +7,11 @@
 *
 * @project   ${3:PROJECT}
 * @date      ${4:DATE}
-* @author    ${5:YOUR NAME}, SapientNitro <${6:EMAIL}@sapient.com>
+* @author    ${5:YOUR NAME}, ${6:COMPANY} <${7:EMAIL}>
 * @licensor  ${2:CLIENT}
-* @site      ${6:SITENAME}
+* @site      ${8:SITENAME}
 *
-* ${7:@dependency dependency.css}
+* ${9:@dependency dependency.css}
 *
 */
 
