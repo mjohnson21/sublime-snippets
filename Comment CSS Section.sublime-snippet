@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+/* =====================================================
+= ${1:SECTIONNAME}
+======================================================== */
+
+]]></content>
+	<tabTrigger>comment-section</tabTrigger>
+	<scope>source.css</scope>
+</snippet>
