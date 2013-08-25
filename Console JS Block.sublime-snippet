@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+console.log("${1:YourComment} ================================ ");
+]]></content>
+	<tabTrigger>console-block</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
