@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+/* == ${1:SUB SECTION NAME}
+===================================================== */
+
+]]></content>
+	<tabTrigger>comment-sub-heading</tabTrigger>
+	<scope>source.css</scope>
+</snippet>
